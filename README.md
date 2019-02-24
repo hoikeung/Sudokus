@@ -1,6 +1,6 @@
 # Sudokus
 
-Playing 9x9 sudokus
+Play 9x9 sudokus
 
 Use comman line to run the program
 
